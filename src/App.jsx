@@ -2,7 +2,7 @@
 const App = () => {
     return (
         <div>
-            <h3>Markdown Previewer</h3>
+            <h3 className="text-blue-500">Markdown Previewer</h3>
         </div>
     )
 }
